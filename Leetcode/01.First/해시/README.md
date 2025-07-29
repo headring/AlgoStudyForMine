@@ -1,0 +1,5 @@
+| 난이도 | 문제 목록 |
+| --- | --- |
+| **Easy** | [Two Sum (1)](https://leetcode.com/problems/two-sum/submissions/), [Ransom Note (383)](https://leetcode.com/problems/ransom-note/submissions/1706987483/), [Intersection of Two Arrays II (350)](https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/1710359777/), [Happy Number (202)](https://leetcode.com/problems/happy-number/), [Jewels and Stones (771)](https://leetcode.com/problems/jewels-and-stones/submissions/1715168025/) |
+| **Medium** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/1715227605/) (560), [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/) (128), Top K Frequent Elements (347), Copy List with Random Pointer (138) |
+| **Hard** | Word Ladder II (126), Substring with Concatenation of All Words (30), LRU Cache (146), Alien Dictionary (269) |
